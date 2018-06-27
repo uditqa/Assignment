@@ -14,7 +14,7 @@ public class dungeon{
 		 driver.findElement(By.className("active")).click();
 		 driver.findElement(By.id("txtUserName")).sendKeys("uditsharma");
 		 
-		 driver.findElement(By.id("txtPassword")).sendKeys("Udit@321#");
+		 driver.findElement(By.id("txtPassword")).sendKeys("");
 //		 WebElement sub = driver.findElement(By.id("txtPassword"));
 //		 sub.submit();
 		 //driver.findElement(By.className("text-center ng-scope")).click();
